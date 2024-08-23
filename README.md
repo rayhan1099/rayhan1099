@@ -10,7 +10,7 @@
 
 ## Hi there <img src="public/hello.gif" width="28px" alt="hi">
 
-I'm Rayhan, a dedicated Full Stack Web Application Developer and Competitive Programmer. I spend most of my time either developing exceptional projects or learning new skills.
+I'm Rayhan, a dedicated Software Engineer & Competitive Programmer. I spend most of my time either developing exceptional projects or learning new skills.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=rayhan1099&cache_seconds=1800" height="150" alt="stats graph"  />
