@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel Nova**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/reptto99)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/rayhan1099)
 
 - 📫 How to reach me **mdrayhanalicse@gmail.com**
 - 📄 Know about my experiences? [View My Resume](https://drive.google.com/file/d/1G-oWNYx0gr7HTXOhl5a2-yCSo8WX39Z-/view?usp=sharing)
@@ -13,8 +13,8 @@
 I'm Rayhan, a dedicated Software Engineer & Competitive Programmer. I spend most of my time either developing exceptional projects or learning new skills.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=reptto99&cache_seconds=1800" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=reptto99&cache_seconds=1800" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=rayhan1099&cache_seconds=1800" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=rayhan1099&cache_seconds=1800" height="150" alt="languages graph"  />
 </div>
 
   <h3 align="left">Connect with me:</h3>
