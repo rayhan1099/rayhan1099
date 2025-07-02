@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [Github](https://github.com/rayhan1099)
 
 - 📫 How to reach me **mdrayhanalicse@gmail.com**
-- 📄 Know about my experiences? [View My Resume](https://drive.google.com/file/d/1hYiYS0TXTel4G0cuneYOTmlSgdDCwinA/view?usp=sharing)
+- 📄 Know about my experiences? [View My Resume](https://drive.google.com/file/d/1gwKDN-3kUHFBqX39PTxz8KUrPtKwtCkF/view?usp=sharing)
 
 ## Hi there <img src="public/hello.gif" width="28px" alt="hi">
 
