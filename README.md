@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Rayhan Ali</h1>
 <h3 align="center">Software Engineer & Competitive Programmer</h3>
 
-- 🌱 I’m currently learning **Laravel Nova**
+- 🌱 I’m currently learning **laravel filament**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/rayhan1099)
 
