@@ -28,12 +28,12 @@ Currently, I manage and contribute to multiple projects at a software company—
 I'm always eager to explore new technologies and take on new challenges. Let's connect and create something impactful!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhan1099&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=8338ec&icon_color=ff006e&text_color=ffffff&border_color=8338ec&cache_seconds=86400" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan1099&theme=radical&layout=compact&langs_count=10&hide_border=false&bg_color=0D1117&title_color=8338ec&text_color=ffffff&border_color=8338ec&hide=html,css,scss&cache_seconds=86400" alt="Top Languages" height="180" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayhan1099&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=false&hide_rank=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan1099&theme=radical&layout=compact&langs_count=10&hide_title=false" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rayhan1099&theme=radical&hide_border=false&background=0D1117&ring=8338ec&fire=ff006e&currStreakLabel=3a86ff&sideLabels=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=rayhan1099&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
