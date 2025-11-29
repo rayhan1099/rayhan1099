@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=rayhan1099&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan1099" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rayhan1099&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="rayhan1099" />
-  </a>
-</p>
-
 - 🌱 I'm currently learning **Laravel Filament**
 - 👨‍💻 All of my projects are available at [Github](https://github.com/rayhan1099)
 - 🌐 Visit my website: [reptto.com](http://reptto.com/)
@@ -27,19 +21,23 @@
 
 ## 👋 About Me
 
+<div align="center">
+
 I am a passionate **Software Engineer** and **Full Stack Developer** with a strong background in competitive programming. I excel at solving complex problems and optimizing solutions for performance and maintainability.
 
 Currently, I manage and contribute to multiple projects at a software company—overseeing development teams, ensuring smooth delivery, and driving innovation through strategic planning. My expertise spans React, Laravel, Laravel Nova, Vue.js, and Odoo, along with ERP system management and development.
 
 I'm always eager to explore new technologies and take on new challenges. Let's connect and create something impactful!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhan1099&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=false&hide_border=false&bg_color=0D1117&title_color=8338ec&icon_color=ff006e" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan1099&theme=radical&layout=compact&langs_count=10&hide_border=false&bg_color=0D1117&title_color=8338ec&text_color=ffffff&hide=html,css,scss" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rayhan1099&theme=radical&hide_border=false&background=0D1117&ring=8338ec&fire=ff006e&currStreakLabel=3a86ff" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhan1099&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan1099&theme=radical&layout=compact&langs_count=10&hide_border=false" alt="Top Languages" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=rayhan1099&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
