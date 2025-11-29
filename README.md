@@ -47,7 +47,7 @@ I'm always eager to explore new technologies and take on new challenges. Let's c
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
 </p>
@@ -88,14 +88,14 @@ I'm always eager to explore new technologies and take on new challenges. Let's c
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="Keras" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rest/rest-original.svg" alt="REST API" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=rest&logoColor=white" alt="REST API" height="28"/>
   <img src="https://img.shields.io/badge/Typesense-000000?style=flat-square&logo=typesense&logoColor=white" alt="Typesense" height="28"/>
 </p>
 
 ### Specialized Platforms & Tools
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" alt="Odoo" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/woocommerce/woocommerce-icon.svg" alt="WooCommerce" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/odoo.svg" alt="Odoo" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/woocommerce.svg" alt="WooCommerce" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40"/>
@@ -168,7 +168,7 @@ I'm always eager to explore new technologies and take on new challenges. Let's c
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" height="40" width="50" />
   </a>
   <a href="mailto:mdrayhanalicse@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mdrayhanalicse@gmail.com" height="40" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/gmail.svg" alt="mdrayhanalicse@gmail.com" height="40" width="50" />
   </a>
 </p>
 
