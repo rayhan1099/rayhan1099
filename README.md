@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Coding GIF" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/212711693-f1d227b6-2df7-4952-9475-b38a7c2e3919.gif" alt="Modern Coding Animation" width="450" />
 </div>
 
 ## 👋 About Me
@@ -58,8 +58,8 @@ A diverse set of technologies I use for development and problem-solving:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=rayhan1099&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=rayhan1099&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhan1099&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=false" alt="Md. Rayhan Ali GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan1099&layout=compact&langs_count=5&theme=vue&hide_border=false" alt="Md. Rayhan Ali Top Languages" />
 </div>
 
 ---
