@@ -28,12 +28,12 @@ Currently, I manage and contribute to multiple projects at a software company—
 I'm always eager to explore new technologies and take on new challenges. Let's connect and create something impactful!
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayhan1099&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=false&hide_rank=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan1099&theme=radical&layout=compact&langs_count=10&hide_title=false" alt="Top Languages" />
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rayhan1099&theme=radical&show_icons=true" />
+  <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan1099&theme=radical&layout=compact" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rayhan1099&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.demolab.com/?user=rayhan1099&theme=radical" />
 </div>
 
 ---
@@ -107,65 +107,13 @@ I'm always eager to explore new technologies and take on new challenges. Let's c
 ## 💼 Work Experience
 
 ### Software Engineer
-**Mellowhost Limited** | *April 2025 - Present*
-
-- Developed and maintained custom ERP and e-commerce solutions using Laravel Nova, React, Vue.js, and TailwindCSS
-- Integrated REST APIs, SSLCommerz payment gateway, and Typesense search to enhance workflows
-- Ensured secure transactions and improved product discovery
-- Maintained scalability and high performance across systems
-
 **Technologies:** PHP, Laravel, Nova, React, Vue.js, MySQL
 
 ### Software Engineer
 **Shajgoj Limited** | *June 2024 - March 2025*
-
-- Customized and maintained Odoo ERP to optimize sales, inventory, and accounting workflows
-- Improved performance by optimizing PostgreSQL databases
-- Implemented security and access controls
-- Delivered custom QWeb/Excel reports
-- Provided technical support and system upgrades
-
 **Technologies:** ERP, Odoo, Python, XML, PostgreSQL
-
 ### Junior Software QA Engineer
 **Texon Limited** | *January 2024 - April 2024*
-
-- Ensured software quality and reliability through comprehensive testing
-- Identified and reported bugs and issues
-- Collaborated with development teams to improve product quality
-
----
-
-## 🏆 Extra Curricular Activities
-
-### Competitive Programming
-- **Solved 450+ Competitive Programming Problems** across multiple platforms (Beecrowd, HackerRank, LeetCode, Codeforces, LightOJ, Toph)
-- Strengthened algorithmic thinking and mastery of data structures
-
-### ICPC Participation
-- **ICPC Asia Dhaka Regional Contest** — Onsite Participant (2022)
-  - Represented university at regional level
-- **ICPC Asia Dhaka Regional Preliminary** — Qualified (2020 & 2021)
-  - Successfully qualified for regional preliminary rounds in consecutive years
-
-### Programming Contests Achievements
-- 🥇 **ROBAUST Robotics Contest** — Champion (Line Follower) - 2023
-- 🥉 **Intra University ICPC Selection** — 3rd Place (BAUST)
-- 🏅 **Independence Day Programming Contest** — 4th Place (City University, 2021)
-- 🏅 **BAUST Marathon Programming Contest** — 6th Place (COVID-19 Special Contest)
-
-### Leadership & Organizations
-- **Organizing Secretary** — CSE Society, BAUST
-  - Coordinated tech events, coding bootcamps, and mentorship sessions
-- **Assistant Organizing Secretary** — BAUST Programming Club
-  - Supported planning and logistics for programming contests, workshops, and club operations
-- **Senior Executive Member** — Career Society of BAUST
-  - Led student outreach and event execution to support career development initiatives
-- **Senior Executive Member** — BAUST Mechatronics and Robotics Club
-  - Contributed to robotics initiatives and hands-on project activities
-
----
-
 ## 🎯 Areas of Expertise
 
 <table>
