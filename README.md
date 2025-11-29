@@ -105,10 +105,9 @@ I'm always eager to explore new technologies and take on new challenges. Let's c
 ---
 
 ## 💼 Work Experience
-
 ### Software Engineer
+**Mellowhost Limited** | *April 2025 - Present*
 **Technologies:** PHP, Laravel, Nova, React, Vue.js, MySQL
-
 ### Software Engineer
 **Shajgoj Limited** | *June 2024 - March 2025*
 **Technologies:** ERP, Odoo, Python, XML, PostgreSQL
