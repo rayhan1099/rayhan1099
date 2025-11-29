@@ -28,8 +28,8 @@ Currently, I manage and contribute to multiple projects at a software company—
 I'm always eager to explore new technologies and take on new challenges. Let's connect and create something impactful!
 
 <div align="center">
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rayhan1099&theme=radical&show_icons=true" />
-  <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan1099&theme=radical&layout=compact" />
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rayhan1099&theme=radical&show_icons=true" />
+  <img height="180" alt="Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rayhan1099&theme=radical&layout=compact" />
 </div>
 
 <div align="center">
@@ -144,7 +144,7 @@ I'm always eager to explore new technologies and take on new challenges. Let's c
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayhan1099&theme=radical&hide_border=false&area=true&bg_color=0D1117&color=8338ec&line=ff006e&point=3a86ff&area_color=8338ec" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rayhan1099&theme=react-dark&area=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -186,7 +186,7 @@ I'm always eager to explore new technologies and take on new challenges. Let's c
 ## 💻 Coding Activity
 
 <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+  <img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif">
 </div>
 
 <div align="left">
