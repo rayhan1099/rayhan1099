@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=rayhan1099&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan1099" />
 </p>
 
-- 🌱 I'm currently learning **Laravel Filament**
+- 🌱 I'm currently learning **Django**
 - 👨‍💻 All of my projects are available at [Github](https://github.com/rayhan1099)
 - 🌐 Visit my website: [reptto.com](http://reptto.com/)
 - 📫 How to reach me **mdrayhanalicse@gmail.com**
-- 📄 Know about my experiences? [View My Resume](https://drive.google.com/file/d/1gwKDN-3kUHFBqX39PTxz8KUrPtKwtCkF/view?usp=sharing)
+- 📄 Know about my experiences? [View My Resume](https://drive.google.com/file/d/1JIKvQZVBNNX4N5F2H0qoJEsQHs61oie3/view?usp=sharing)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Problems%20Solved-450+-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems Solved" />
