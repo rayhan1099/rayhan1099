@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=rayhan1099&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan1099" />
 </p>
 
-- 🌱 I'm currently learning **Django**
 - 👨‍💻 All of my projects are available at [Github](https://github.com/rayhan1099)
 - 🌐 Visit my website: [reptto.com](http://reptto.com/)
 - 📫 How to reach me **mdrayhanalicse@gmail.com**
